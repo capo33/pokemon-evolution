@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pokemon-evolution/static/css/main.0195707c.chunk.css",
+    "main.js": "/pokemon-evolution/static/js/main.28093bad.chunk.js",
+    "main.js.map": "/pokemon-evolution/static/js/main.28093bad.chunk.js.map",
+    "runtime-main.js": "/pokemon-evolution/static/js/runtime-main.58c1d3dd.js",
+    "runtime-main.js.map": "/pokemon-evolution/static/js/runtime-main.58c1d3dd.js.map",
+    "static/js/2.77385bef.chunk.js": "/pokemon-evolution/static/js/2.77385bef.chunk.js",
+    "static/js/2.77385bef.chunk.js.map": "/pokemon-evolution/static/js/2.77385bef.chunk.js.map",
+    "index.html": "/pokemon-evolution/index.html",
+    "static/css/main.0195707c.chunk.css.map": "/pokemon-evolution/static/css/main.0195707c.chunk.css.map",
+    "static/js/2.77385bef.chunk.js.LICENSE.txt": "/pokemon-evolution/static/js/2.77385bef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c1d3dd.js",
+    "static/js/2.77385bef.chunk.js",
+    "static/css/main.0195707c.chunk.css",
+    "static/js/main.28093bad.chunk.js"
+  ]
+}
